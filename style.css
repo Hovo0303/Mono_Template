@@ -1,0 +1,511 @@
+body{
+    margin: 0;
+}
+.new{
+    height: 500px;
+}
+.paris{
+    height: 500px;
+    padding: 0;
+    position: relative;
+}
+.paris img{
+    height: 500px;
+    width: 100%;
+}
+.paris h1{
+    position: absolute;
+    font-size: 60px;
+    color: black;
+    top: 110px;
+    left: 400px;
+}
+.paris h2{
+    position: absolute;
+    font-size: 20px;
+    color: black;
+    top: 175px;
+    left: 530px;
+}
+.navbar-inverse{
+    width: 730px;
+    height: 70px;
+    /* border: 1px solid; */
+    border-radius: 25px;
+    position: absolute;
+    top: 280px;
+    left: 280px;
+}
+.navbar-inverse .navbar-text{
+    margin-left: 65px;
+    margin-top: 24px;
+    color: white;
+}
+.navbar-nav{
+    margin-top: 10px;
+}
+.text_img{
+    height: 580px;
+    display: flex;
+    flex-direction: column;
+}
+.div_text{
+    height: 120px;
+}
+.h1_text{
+    display: flex;
+    justify-content: flex-start;
+    height: 100px;
+    padding: 0;
+}
+.h1_div{
+    width: 600px;
+    height: 100px;
+}
+.h1_div h1{
+    font-size: 45px;
+    color: black;
+    margin-top: 40px;
+}
+.div1_text{
+    height: 450px;
+    margin-left: 10px; 
+}
+.row{
+    display: flex;
+    flex-wrap: nowrap;
+}
+.div1{
+    display: flex;
+    flex-direction: column;
+    padding: 0;
+    margin-left: 7px; 
+    height: 400px;
+    cursor: pointer;
+}
+.nkar{
+    width: 290px;
+    height: 150px;
+    border-radius: 8px;
+}
+.nkar img{
+    width: 290px;
+    height: 150px;
+    border-radius: 8px; 
+}
+.text{
+    width: 290px;
+    height: 80px;
+    margin-top: 25px;
+}
+.text p{
+    font-size: 17px;
+}
+.but{
+    width: 270px;
+    height: 80px;
+    margin-top: 40px;
+}
+.btn-primary {
+    width: 180px;
+    height: 60px;
+    background-color: black; 
+    color: white; 
+    border: none;
+}
+.btn-primary:hover{
+    opacity: 0.9;
+    background-color: black;
+}
+.div2{
+    display: flex;
+    flex-direction: column;
+    height: 400px;
+    padding: 0;
+    margin-left: 16px;
+    cursor: pointer;
+}
+.nkar1{
+    width: 290px;
+    height: 150px;
+    border-radius: 8px;
+}
+.nkar1 img{
+    width: 290px;
+    height: 150px;
+    border-radius: 8px;  
+}
+.text{
+    width: 290px;
+    height: 80px;
+    margin-top: 25px;
+}
+.text p{
+    font-size: 17px;
+}
+.but{
+    width: 270px;
+    height: 80px;
+    margin-top: 40px;
+}
+.btn-primary {
+    width: 180px;
+    height: 60px;
+    background-color: black; 
+    color: white; 
+    border: none;
+}
+.btn-primary:hover{
+    opacity: 0.9;
+    background-color: black; 
+}
+.div3{
+    display: flex;
+    flex-direction: column;
+    height: 400px;
+    padding: 0;
+    margin-left: 16px;
+    cursor: pointer;  
+}
+.nkar2{
+    width: 290px;
+    height: 150px;
+    border-radius: 8px;
+}
+.nkar2 img{
+    width: 290px;
+    height: 150px;
+    border-radius: 8px;  
+}
+.text{
+    width: 290px;
+    height: 80px;
+    margin-top: 25px;
+}
+.text p{
+    font-size: 17px;
+}
+.but{
+    width: 270px;
+    height: 80px;
+    margin-top: 40px;
+}
+.btn-primary {
+    width: 180px;
+    height: 60px;
+    background-color: black; 
+    color: white; 
+    border: none;
+}
+.btn-primary:hover{
+    opacity: 0.9;
+    background-color: black; 
+}
+.div4{
+    display: flex;
+    flex-direction: column;
+    height: 400px;
+    padding: 0; 
+    margin-left: 17px;
+    cursor: pointer; 
+}
+.nkar4{
+    width: 290px;
+    height: 150px;
+    border-radius: 8px;
+}
+.nkar4 img{
+    width: 290px;
+    height: 150px;
+    border-radius: 8px;; 
+}
+.text{
+    width: 290px;
+    height: 80px;
+    margin-top: 25px;
+}
+.text p{
+    font-size: 17px;
+}
+.but{
+    width: 270px;
+    height: 80px;
+    margin-top: 40px;
+}
+.btn-primary {
+    width: 150px;
+    height: 60px;
+    background-color: black; 
+    color: white; 
+    border: none;
+}
+.btn-primary:hover{
+    opacity: 0.9;
+    background-color: black;  
+}
+.line{
+    height: 600px;
+    background: white;
+}
+.gravida{
+    display: flex;
+    flex-direction: column;
+    height: 600px;
+    padding: 0;
+}
+.div_errord{
+    display: flex;
+    justify-content: space-between;
+    height: 500px;
+}
+.erkar_div{
+    display: flex;
+    flex-direction: column;
+    height: 510px;
+    width: 740px; 
+}
+.templ1{
+    width: 740px;
+    height: 160px;
+}
+.templ1 h1{
+    font-size: 45px;
+    color: black;
+    margin-top: 50px;
+}
+.templ1 h2{
+    font-size: 13px;
+    color: black;
+    margin-top: 10px; 
+}
+.templ2{
+    width: 740px;
+    height: 170px;
+    border-radius: 8px;
+}
+.templ2 img{
+    width: 740px;
+    height: 170px;
+    border-radius: 8px;
+}
+.templ3{
+    width: 740px;
+    height: 100px;
+    margin-top: 20px;
+}
+.templ3 small{
+    font-size: 15px;
+}
+.templ3 span{
+    font-size: 15px;
+    color: brown;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.sp1{
+    color: black;
+}
+.templ3 span:hover{
+    font-size: 15px;
+    color: brown;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.templ4{
+    width: 740px;
+    height: 60px;
+}
+.templ4 button{
+    margin-bottom: 20px;
+}
+.karch_div{
+    display: flex;
+    flex-direction: column;
+    height: 510px;
+    width: 400px;  
+}
+.templ5{
+    width: 400px;
+    height: 160px;
+}
+.templ5 h1{
+    font-size: 28px;
+    margin-top: 60px;
+    color: black;
+}
+.templ5 h2{
+    font-size: 13px;
+    margin-top: 15px;
+}
+.templ6{
+    width: 400px;
+    height: 80px;
+}
+.templ6 small{
+    font-size: 15px;
+}
+.templ7{
+    width: 400px;
+    height: 250px;
+}
+.templ7 h1{
+    font-size: 15px;
+    color: brown;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.templ7 h1:hover{
+    font-size: 15px;
+    color: brown;
+    text-decoration: none;
+    cursor: pointer;
+}
+ .mec_div{
+    height: 670px;
+    background: #121212
+ }
+ .mechtex_div{
+    height: 550px;
+    margin-top: 70px;
+ }
+ .element1{
+    display: flex;
+    flex-direction: column;
+    height: 550px;
+    padding: 0;
+    
+ }
+ .nkar_element{
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    width: 565px;
+    height: 140px;
+    margin-top: 25px;
+     
+ }
+ .img_text{
+    width: 80px;
+    height: 80px;
+    border-radius: 8px;
+ }
+ .img_text img{
+    width: 80px;
+    height: 80px;
+    border-radius: 8px;
+ }
+ .img_text1{
+    width: 150px;
+    height: 90px;
+    margin-left: 20px;
+    color: rgba(255,255,255,.4);
+}
+.img_text1 p{
+    font-size: 14px;
+    margin-top: 2px;
+}
+.nkar_element h1{
+    position: absolute;
+    font-size: 15px;
+    top: 90px;
+    left: 8px;
+    color: rgba(255,255,255,.4);
+}
+.nkar_element .h1_text{
+    position: absolute;
+    font-size: 15px;
+    top: 90px;
+    left: 310px;
+    color: rgba(255,255,255,.4);
+}
+.nkar_element .h2_text{
+    position: absolute;
+    font-size: 15px;
+    top: 90px;
+    left: 10px;
+    color: rgba(255,255,255,.4);
+}
+.nkar_element .h3_text{
+    position: absolute;
+    font-size: 15px;
+    top: 90px;
+    left: 310px;
+    color: rgba(255,255,255,.4);
+}
+.nkar_element .h4_text{
+    position: absolute;
+    font-size: 15px;
+    top: 90px;
+    left: 10px;
+    color: rgba(255,255,255,.4);
+}
+.nkar_element .h5_text{
+    position: absolute;
+    font-size: 15px;
+    top: 90px;
+    left: 310px;
+    color: rgba(255,255,255,.4);
+}
+.img_element1{
+    width: 260px;
+    height: 140px;
+    display: flex;  
+}
+.img_element2{
+    width: 260px;
+    height: 140px;
+    display: flex;
+}
+.element2{
+    display: flex;
+    flex-direction: column;
+    height: 550px; 
+}
+.vernagir_div{
+    width: 400px;
+    height: 80px;
+}
+.vernagir_div h1{
+   font-size: 45px;
+   color: white;
+}
+.vernagir_text{
+    width: 550px;
+    height: 80px;
+    margin-top: 20px;
+}
+.vernagir_text small{
+    font-size: 14px;
+    color: rgba(255,255,255,.4);
+ }
+ .vernagir_ul{
+    width: 550px;
+    height: 300px;
+    margin-top: 30px;
+}
+.vernagir_ul h1{
+    font-size: 17px;
+    color: brown;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.vernagir_ul h1:hover{
+    font-size: 17px;
+    color: brown;
+    text-decoration: none;
+    cursor: pointer;
+}
+.verch{
+    height: 100px;
+    background: #70807D;
+}
+.verch_div{
+    height: 100px;
+    text-align: center;
+}
+.verch_div h1{
+    font-size: 15px;
+    color: rgba(255,255,255,.4);
+    margin-top: 40px;
+}
